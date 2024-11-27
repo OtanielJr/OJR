@@ -470,8 +470,8 @@ h6 {
   color: var(--default-color);
   background-color: var(--background-color);
   font-size: 14px;
-  padding: 40px 0;
-  position: relative;
+  padding: 400px ;
+
 }
 
 .footer .copyright p {
