@@ -470,19 +470,23 @@ h6 {
   color: var(--default-color);
   background-color: var(--background-color);
   font-size: 14px;
-  padding: 400px ;
-
+  padding: 40px 0;
+  overflow: hidden; 
+  position: relative;
 }
 
 .footer .copyright p {
+  overflow: hidden; 
   margin-bottom: 0;
 }
 
 .footer .social-links {
+  overflow: hidden; 
   margin-top: 20px;
 }
 
 .footer .social-links a {
+  overflow: hidden; 
   display: flex;
   align-items: center;
   justify-content: center;
@@ -497,11 +501,13 @@ h6 {
 }
 
 .footer .social-links a:hover {
+  overflow: hidden; 
   color: var(--accent-color);
   border-color: var(--accent-color);
 }
 
 .footer .credits {
+  overflow: hidden; 
   margin-top: 10px;
   font-size: 13px;
   text-align: center;
